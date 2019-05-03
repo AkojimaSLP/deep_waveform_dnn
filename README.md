@@ -2,7 +2,7 @@
 - SPEECH ACOUSTIC MODELING FROM RAW MULTICHANNEL WAVEFORMS
 - http://www.cs.huji.ac.il/~ydidh/waveform.pdf
 
-# train time domain filter coeficient (beamformer) from waveform
+# train time domain filter coefficient (beamformer) from waveform
 - CNN layer's weights are regarded as beamformer
 
 # scripts for training and plot beampattern and brainogram
