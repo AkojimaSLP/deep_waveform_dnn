@@ -6,7 +6,7 @@
 - CNN layer's weights are regarded as beamformer
 
 # scripts for training and plot beampattern and brainogram
-- because of 2ch microphone, we can see 1 null(around 90 degree) in beampattern
+- we can see 1 null(around 90 degree) in beampattern
 
 ![beam_pattern](https://user-images.githubusercontent.com/41845296/57136572-31fcc480-6de8-11e9-8298-d6db20e11a98.png)
 ![brainogram](https://user-images.githubusercontent.com/41845296/57136573-31fcc480-6de8-11e9-9483-413bcaeee2a2.png)
