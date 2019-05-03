@@ -8,6 +8,6 @@
 # scripts for training and plot beampattern and brainogram
 - because of 2ch microphone, we can see 1 null(around 90 degree) in beampattern
 
+![beam_pattern](https://user-images.githubusercontent.com/41845296/57136572-31fcc480-6de8-11e9-8298-d6db20e11a98.png)
+![brainogram](https://user-images.githubusercontent.com/41845296/57136573-31fcc480-6de8-11e9-9483-413bcaeee2a2.png)
 
-![brainogram](https://user-images.githubusercontent.com/41845296/57135607-f3193f80-6de4-11e9-941f-f9d5b88c18c2.png)
-![beam_pattern](https://user-images.githubusercontent.com/41845296/57135609-f3193f80-6de4-11e9-8cb4-2c4b91bf9336.png)
